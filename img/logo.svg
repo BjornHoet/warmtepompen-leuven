@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 100">
+  <!-- House outline -->
+  <polyline points="18,58 82,10 146,58" fill="none" stroke="#e63946" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <line x1="25" y1="54" x2="25" y2="92" stroke="#e63946" stroke-width="5" stroke-linecap="round"/>
+  <line x1="139" y1="54" x2="139" y2="92" stroke="#e63946" stroke-width="5" stroke-linecap="round"/>
+  <line x1="25" y1="92" x2="139" y2="92" stroke="#e63946" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- Outdoor heat pump unit (bottom-left, like airco unit in original) -->
+  <rect x="17" y="71" width="16" height="21" fill="none" stroke="#e63946" stroke-width="3" rx="2"/>
+  <line x1="21" y1="76" x2="21" y2="87" stroke="#e63946" stroke-width="1.5"/>
+  <line x1="25" y1="76" x2="25" y2="87" stroke="#e63946" stroke-width="1.5"/>
+  <line x1="29" y1="76" x2="29" y2="87" stroke="#e63946" stroke-width="1.5"/>
+
+  <!-- Flame icon (centered in house) -->
+  <path d="M82,76
+    C74,72 66,62 70,48
+    C72,40 78,34 77,26
+    C79,32 80,40 79,48
+    C81,40 83,30 84,20
+    C86,30 87,40 85,50
+    C89,44 91,54 88,64
+    C86,70 84,74 82,76Z"
+    fill="#e63946"/>
+
+  <!-- Text -->
+  <text x="160" y="68"
+    font-family="'Arial Black', 'Arial Bold', Arial, sans-serif"
+    font-weight="900"
+    font-size="34"
+    fill="#e63946"
+    letter-spacing="0.5">WARMTEPOMPEN-LEUVEN</text>
+</svg>
